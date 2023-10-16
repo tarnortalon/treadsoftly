@@ -1,0 +1,4 @@
+defaultContentLanguage = "en"
+enableEmoji = true
+paginate = 5
+enableGitInfo = true
