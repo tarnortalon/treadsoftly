@@ -4,7 +4,7 @@ languageName = "English"
 languageCode = "en"
 weight = 1
 
-[zh-tw]
+[zh-cn]
 contentDir = "content/zh-cn"
 languageName = "中文"
 languageCode = "zh-cn"
